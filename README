@@ -1,0 +1,13 @@
+# krrStudy: Kernel Ridge Regression Package
+
+This package implements Kernel Ridge Regression (KRR) with a Gaussian kernel.
+It provides two main functions:
+
+- `krr_fit()`: Fit a KRR model
+- `predict.krr()`: Predict using a fitted KRR model
+
+## Installation
+You can install this package locally using:
+
+```r
+devtools::install("path/to/krrStudy")
